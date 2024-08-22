@@ -4,7 +4,7 @@
 int main()
 {
     double num1;
-    double num2;
+    double num2 = 2;
     char operator = '+';
     double answer;
     
